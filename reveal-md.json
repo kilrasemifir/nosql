@@ -1,0 +1,8 @@
+{
+    "scripts": [
+        "plugin/chalkboard/plugin.js",
+        "plugin/reveal.js-menu/menu.js",
+        "plugin/customcontrols/plugin.js",
+        "plugin.js"
+        ]
+  }
